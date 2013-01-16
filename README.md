@@ -1,4 +1,4 @@
 footy-manager
 =============
 
-Football manager game
+Football manager game in Java
