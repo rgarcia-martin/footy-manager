@@ -1,0 +1,2 @@
+PeriquitoPelon type1 300.0 true
+PowerCejitas type2 302.0 false
